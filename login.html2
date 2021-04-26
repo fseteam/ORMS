@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>ORMS</title>
+        </head>
+<body>
+<div id='login-form' class='login-page'>
+    <div class="form-box">
+        <div class="button-box"> 
+        <div id='btn'></div>
+        <button type='button'onclick='login()'class='toggle-btn'>log in</button>
+    </div>
+    <form id= 'login'class= 'input-group-login'>
+    <input type='text' class='input-field' placeholder="Email id" required>
+    <input type='password' class='input-field'placeholder="Enter password"required>
+    <input type='checkbox' class='check-box'> <span> Remember password</span>
+    <button type='submit'class='submit-btn'>log in</button>
+   </form>  
+   </div>
+
+</body>
