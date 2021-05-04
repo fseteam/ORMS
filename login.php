@@ -2,7 +2,6 @@
 <html lang="en" >
 
 <head>
-  <meta charset="UTF-8">
   <title>login</title>
   
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
@@ -37,7 +36,7 @@
   <div class="form">
     <h2>Login to your account</h2>
 	  <span style="color:red;"><?php echo $message; ?></span> 
-   <span style="color:green;"><?php echo $success; ?></span>
+    <span style="color:green;"><?php echo $success; ?></span>
     <form action="" method="post">
       <input type="text" placeholder="Username"  name="username"/>
       <input type="password" placeholder="Password" name="password"/>
@@ -45,16 +44,9 @@
     </form>
   </div>
   
-  <div class="cta">Not registered?<a href="registration.php" style="color:#f30;"> Create an account</a></div>
+  <div class="cta">Not registered??<a href="registration.php" style="color:#f30;"> Create an account for you</a></div>
 </div>
   <script src='http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
-
-  
-
-   
-
-
-
 </body>
 
 </html>
