@@ -4,7 +4,21 @@
 <head>
   <meta charset="UTF-8">
   <title>login page</title>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
+
+  <link rel='stylesheet prefetch' href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,500,700,900|RobotoDraft:400,100,300,500,700,900'>
+<link rel='stylesheet prefetch' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css'>
+
+      <link rel="stylesheet" href="css/login.css">
+
+	  <style type="text/css">
+	  #buttn{
+		  color:#fff;
+		  background-color: #ff3300;
+	  }
+	  </style>
 </head>
+<body>
 <?php
 include("connection/connect.php"); //INCLUDE CONNECTION
 error_reporting(0); // hide undefine index errors
