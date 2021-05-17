@@ -218,3 +218,126 @@ if(isset($_POST['submit'] )) //if submit btn is pressed
                   </div>
                </div>
             </section>
+<div class="col-md-4">
+                        <h4>Registration is fast, easy, and free.</h4>
+                        <p>Once you"re registered, you can:</p>
+                        <hr>
+                     
+                        
+                        <h4 class="m-t-20">Contact Customer Support</h4>
+                        <p> If you"re looking for more help or have a question to ask, please </p>
+                        <p> <a href="contact.html" class="btn theme-btn m-t-15">contact us</a> </p>
+                     </div>
+                     <!-- /WHY? -->
+                  </div>
+               </div>
+            </section>
+   
+            <!-- start: FOOTER -->
+            <footer class="footer">
+               <div class="container">
+                  <!-- top footer statrs -->
+                  <div class="row top-footer">
+                     <div class="col-xs-12 col-sm-3 footer-logo-block color-gray">
+                        <a href="#"> <img src="images/food-picky-logo.png" alt="Footer logo"> </a> <span>Order Delivery &amp; Take-Out </span> 
+                     </div>
+                     <div class="col-xs-12 col-sm-2 about color-gray">
+                        <h5>About Us</h5>
+                        <ul>
+                           <li><a href="#">About us</a> </li>
+                           <li><a href="#">History</a> </li>
+                           <li><a href="#">Our Team</a> </li>
+                           <li><a href="#">We are hiring</a> </li>
+                        </ul>
+                     </div>
+                     <div class="col-xs-12 col-sm-2 how-it-works-links color-gray">
+                        <h5>How it Works</h5>
+                        <ul>
+                           <li><a href="#">Enter your location</a> </li>
+                           <li><a href="#">Choose restaurant</a> </li>
+                           <li><a href="#">Choose meal</a> </li>
+                           <li><a href="#">Pay via credit card</a> </li>
+                           <li><a href="#">Wait for delivery</a> </li>
+                        </ul>
+                     </div>
+                     <div class="col-xs-12 col-sm-2 pages color-gray">
+                        <h5>Pages</h5>
+                        <ul>
+                           <li><a href="#">Search results page</a> </li>
+                           <li><a href="#">User Sing Up Page</a> </li>
+                           <li><a href="#">Pricing page</a> </li>
+                           <li><a href="#">Make order</a> </li>
+                           <li><a href="#">Add to cart</a> </li>
+                        </ul>
+                     </div>
+                     <div class="col-xs-12 col-sm-3 popular-locations color-gray">
+                        <h5>Popular locations</h5>
+                        <ul>
+                           <li><a href="#">Adama</a> </li>
+                            <li><a href="#">Addis Abeba</a> </li>
+                            <li><a href="#">Dire Dhawa</a> </li>
+                            <li><a href="#">Hawasa</a> </li>
+                            <li><a href="#">Gonder</a> </li>
+                            <li><a href="#">Semara</a> </li>
+                            <li><a href="#">Mekele</a> </li>
+                            <li><a href="#">Jijiga</a> </li>
+                            <li><a href="#">Harar</a> </li>
+                            <li><a href="#">Other where</a> </li>
+                        </ul>
+                     </div>
+                  </div>
+                  <!-- top footer ends -->
+                  <!-- bottom footer statrs -->
+                  <div class="row bottom-footer">
+                     <div class="container">
+                        <div class="row">
+                           <div class="col-xs-12 col-sm-3 payment-options color-gray">
+                              <h5>Payment Options</h5>
+                              <ul>
+                                 <li>
+                                    <a href="#"> <img src="images/paypal.png" alt="Paypal"> </a>
+                                 </li>
+                                 <li>
+                                    <a href="#"> <img src="images/mastercard.png" alt="Mastercard"> </a>
+                                 </li>
+                                 <li>
+                                    <a href="#"> <img src="images/maestro.png" alt="Maestro"> </a>
+                                 </li>
+                                 <li>
+                                    <a href="#"> <img src="images/stripe.png" alt="Stripe"> </a>
+                                 </li>
+                                 <li>
+                                    <a href="#"> <img src="images/bitcoin.png" alt="Bitcoin"> </a>
+                                 </li>
+                              </ul>
+                           </div>
+                           <div class="col-xs-12 col-sm-4 address color-gray">
+                              <h5>Address</h5>
+                              <p>Concept design of oline food order and deliveye,planned as restaurant directory</p>
+                              <h5>Phone: <a href="tel:+259344028">+251 93 440 8928</a></h5>
+                           </div>
+                           <div class="col-xs-12 col-sm-5 additional-info color-gray">
+                              <h5>Addition informations</h5>
+                              <p>Join the thousands of other restaurants who benefit from having their menus on TakeOff</p>
+                              <div class="social-media">
+                               <a href="facebook"> <i class="fa fa-facebook"></i></a>
+                               <a href="gmail"> <i class="fa fa-email"></i></a>
+                               <a href="website"> <i class="fa fa-google"></i></a>
+                               <a href="whatsapp"> <i class="fa fa-whatsapp"></i></a>
+                               <a href="telegram"> <i class="fa fa-telegram"></i></a>
+                               <a href="youtube"> <i class="fa fa-youtube"></i></a>
+                               <a href="instagram"> <i class="fa fa-instagram"></i></a>
+                            </div>
+                           </div>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- bottom footer ends -->
+               </div>
+            </footer>
+            <!-- end:Footer -->
+         </div>
+         <!-- end:page wrapper -->
+      
+
+
