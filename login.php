@@ -50,10 +50,7 @@ if(isset($_POST['submit']))   // if button is submit
 	
 }
 ?>
-<!-- Form Mixin-->
-<!-- Input Mixin-->
-<!-- Button Mixin-->
-<!-- Pen Title-->
+
 <div class="pen-title">
   <h1>Login Form</h1>
 </div>
