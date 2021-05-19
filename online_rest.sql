@@ -185,3 +185,4 @@ CREATE TABLE IF NOT EXISTS `users_orders` (
 INSERT INTO `users_orders` (`o_id`, `u_id`, `title`, `quantity`, `price`, `status`, `date`) VALUES
 (37, 31, 'jklmno', 5, '17.99', 'closed', '2018-04-18 19:51:50'),
 (38, 31, 'Red Robins Chick on a Stick', 2, '34.99', NULL, '2018-04-18 19:52:34');
+4
