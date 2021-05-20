@@ -13,7 +13,7 @@ session_start();
     <meta name="description" content="">
     <meta name="author" content="">
     <link rel="icon" href="#">
-    <title>Starter Template for Bootstrap</title>
+    <title>Restaurant list page</title>
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
@@ -29,7 +29,7 @@ session_start();
             <nav class="navbar navbar-dark">
                 <div class="container">
                     <button class="navbar-toggler hidden-lg-up" type="button" data-toggle="collapse" data-target="#mainNavbarCollapse">&#9776;</button>
-                    <a class="navbar-brand" href="index.php"> <img class="img-rounded" src="images/food-picky-logo.png" alt=""> </a>
+                    <a class="navbar-brand" href="index.php"> <img class="img-rounded" src="images/logo1.pnp" alt=""> </a>
                     <div class="collapse navbar-toggleable-md  float-lg-right" id="mainNavbarCollapse">
                         <ul class="nav navbar-nav">
                             <li class="nav-item"> <a class="nav-link active" href="index.php">Home <span class="sr-only">(current)</span></a> </li>
@@ -88,7 +88,6 @@ session_start();
                 <div class="container">
                     <div class="row">
                         <div class="col-xs-12 col-sm-5 col-md-5 col-lg-3">
-                          
                           
                             <div class="widget clearfix">
                                 <!-- /widget heading -->
@@ -173,4 +172,3 @@ session_start();
                     </div>
                 </div>
             </section>
-           
