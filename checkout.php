@@ -42,6 +42,7 @@ else{
     <meta name="author" content="">
     <link rel="icon" href="#">
     <title>Finish your order</title>
+
     <!-- Bootstrap core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/font-awesome.min.css" rel="stylesheet">
@@ -179,11 +180,13 @@ else{
             <!-- start: FOOTER -->
         <footer class="footer">
             <div class="container">
-                <!-- top footer statrs -->
+               
+ <!-- top footer starts -->
                 <div class="row top-footer">
                     <div class="col-xs-12 col-sm-3 footer-logo-block color-gray">
                         <a href="#"> <img src="images/logo1.pnp" alt="Footer logo"> </a> <span>Order Delivery &amp; Take-Out </span> </div>
-                    <div class="col-xs-12 col-sm-2 about color-gray">
+                    
+<div class="col-xs-12 col-sm-2 about color-gray">
                         <h5>About Us</h5>
                         <ul>
                             <li><a href="#">About us</a> </li>
@@ -192,6 +195,7 @@ else{
                             
                         </ul>
                     </div>
+
                     <div class="col-xs-12 col-sm-2 how-it-works-links color-gray">
                         <h5>How it Works</h5>
                         <ul>
@@ -202,6 +206,7 @@ else{
                             <li><a href="#">Wait for delivery</a> </li>
                         </ul>
                     </div>
+
                     <div class="col-xs-12 col-sm-2 pages color-gray">
                         <h5>Pages</h5>
                         <ul>
@@ -254,8 +259,8 @@ else{
                         </div>
                         <div class="col-xs-12 col-sm-4 address color-gray">
                             <h5>Address</h5>
-                            <p>Concept design of oline food order and deliveye,planned as restaurant directory</p>
-                            <h5>Phone: <a href="tel:+251934408928">+251 93 440 8928</a></h5> </div>
+                            <p>Concept design of oline food order and delivery,planned as restaurant directory</p>
+                            <h5>Phone: <a href="tel:+251965143905">+251 965143905</a></h5> </div>
                             
                         <div class="col-xs-12 col-sm-5 additional-info color-gray">
                             <h5>Addition informations</h5>
@@ -286,7 +291,7 @@ else{
     <script src="js/bootstrap-slider.min.js"></script>
     <script src="js/jquery.isotope.min.js"></script>
     <script src="js/headroom.js"></script>
-    <script src="js/foodpicky.min.js"></script>
+  
 </body>
 
 </html>
